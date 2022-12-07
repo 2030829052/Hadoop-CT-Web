@@ -35,7 +35,7 @@
                     <a href="#"><i class="icon-font">&#xe003;</i>常用操作</a>
                     <ul class="sub-menu">
                         <li><a href="readdir?url=/"><i class="icon-font">&#xe008;</i>个人文件</a></li>
-                        <li><a href="query_clog"><i class="icon-font">&#xe005;</i>群组文件</a></li>
+                        <li><a href="query_clog"><i class="icon-font">&#xe005;</i>号码查询</a></li>
                         <li><a href="#"><i class="icon-font">&#xe006;</i>我的收藏</a></li>
                         <li><a href="#"><i class="icon-font">&#xe004;</i>本地同步</a></li>
                         <li><a href="#"><i class="icon-font">&#xe012;</i>我的分享</a></li>
